@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #7296d3;
+  background-color: #74b1d7;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -35,6 +35,16 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
   text-shadow: black 1px 0 10px;
+}
+
+.Card{
+  background-color: white;
+  color: black;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 15px 25px #817c7c33;
+  border-radius: 14px;
+  text-align: center;
 }
 
 button {
