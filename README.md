@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [GIPHY CAPTURE](https://giphy.com/apps/giphycapture)
@@ -37,7 +37,7 @@ GIF created with [GIPHY CAPTURE](https://giphy.com/apps/giphycapture)
 
 ## Notes
 
-- I didn't run into any problems while developing my community board.
+- One challenge I had was recording the GIF. It appears I passed the max file size in GitHub, so I had to make the recording in a small window and as fast as possible. Let me know if there's a better way to capture the gif for the next projects.
 
 ## License
 
